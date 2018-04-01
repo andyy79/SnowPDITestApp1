@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="field2" label="Field2" language="en" table="x_10709_testapp1_testapp1_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>field2</element>
+            <help/>
+            <hint/>
+            <label>Field2</label>
+            <language>en</language>
+            <name>x_10709_testapp1_testapp1_table</name>
+            <plural>Field2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>andy</sys_created_by>
+            <sys_created_on>2018-04-01 17:06:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c053d348db555300706459d0cf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Field2</sys_name>
+            <sys_package display_value="TestApp1" source="x_10709_testapp1">48e06bb7db0d1300706459d0cf961964</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TestApp1">48e06bb7db0d1300706459d0cf961964</sys_scope>
+            <sys_update_name>sys_documentation_x_10709_testapp1_testapp1_table_field2_en</sys_update_name>
+            <sys_updated_by>andy</sys_updated_by>
+            <sys_updated_on>2018-04-01 17:06:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
