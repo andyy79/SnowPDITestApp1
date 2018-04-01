@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_10709_testapp1_testapp1_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="field2" table="x_10709_testapp1_testapp1_table">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>ignore_filter_on_new=true</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -15,10 +15,10 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Number</column_label>
+        <column_label>Field2</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -28,7 +28,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>number</element>
+        <element>field2</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -53,18 +53,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>andy</sys_created_by>
-        <sys_created_on>2018-03-31 23:29:50</sys_created_on>
+        <sys_created_on>2018-04-01 17:06:43</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>9a4ba348db955300706459d0cf9619e4</sys_id>
+        <sys_id>4e331348db555300706459d0cf9619d8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Number</sys_name>
+        <sys_name>Field2</sys_name>
         <sys_package display_value="TestApp1" source="x_10709_testapp1">48e06bb7db0d1300706459d0cf961964</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TestApp1">48e06bb7db0d1300706459d0cf961964</sys_scope>
-        <sys_update_name>sys_dictionary_x_10709_testapp1_testapp1_table_number</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-04-01 18:51:29</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_10709_testapp1_testapp1_table_field2</sys_update_name>
+        <sys_updated_by>andy</sys_updated_by>
+        <sys_updated_on>2018-04-01 17:06:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
